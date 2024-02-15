@@ -108,7 +108,7 @@ case_page.innerHTML=`
             <div style="opacity:1">
                 <div class="flex gap-2 mt-12 text-sm xl:mt-14">
                     <div class="flex justify-center flex-1 gap-5 font-hanken">
-                        <a class="btn btn-default" href="/index.html#pricing">Pricing</a>
+                        <a class="btn btn-default" href="../../index.html#pricing">Pricing</a>
                         <button class="btn-outline"><a href="#">Book an intro call</a></button></div>
                 </div>
                 <div class="slider">
